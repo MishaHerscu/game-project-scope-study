@@ -16,7 +16,7 @@ Submit detailed answers to these in this file via a pull request.
 
 -   A wireframe of what your game project will look like.
 
-XXXX
+[Wireframe File](https://github.com/MishaHerscu/game-project-scope-study/blob/response/TicTacToeWireframe.bmpr)
 
 -   The data structure you plan to use.
 
